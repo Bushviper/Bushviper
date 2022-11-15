@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Alex
-- 👀 I’m interested in learning enough code to become a developer, and get out of a sales career.
-- 🌱 I’m currently learning python.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in learning enough to change my career and gorw.
+- 🌱 I’m currently learning python and taking CS50.
+
 
 <!---
 Bushviper/Bushviper is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
