@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Alex
-- 👀 I’m interested in learning enough to change my career and gorw.
+- 👀 I’m interested in learning enough to change my career and grow.
 - 🌱 I’m currently learning python and taking CS50.
 
 
